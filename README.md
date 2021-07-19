@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KanjooM
-- 👀 I’m interested in web application development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning nodejs, sql and web application security
 - 💞️ I’m looking to collaborate on web application security
 - 📫 How to reach me kenangora@gmail.com
