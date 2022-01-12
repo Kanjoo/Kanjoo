@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KanjooM
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning nodejs, sql and web application security
-- 💞️ I’m looking to collaborate on web application security
+- 👀 I’m interested in web application development, 
+- 🌱 I’m honing my skills in databases, servers and the cloud,
+- 💞️ I’m looking to collaborate on everything Linux, Nodejs and Security!
 - 📫 How to reach me kenangora@gmail.com
 
 <!---
