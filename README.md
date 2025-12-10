@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KanjooM
-- 👀 I’m interested in application development, DevOps and Cloud 
-- 🌱 I’m honing my skills in databases, Linux, servers and the cloud,
-- 💞️ I’m looking to collaborate on everything Linux, Nodejs and Security!
+- 👋 Hi, I’m Kanjoo
+- 👀 I’m interested in systems administration and DevOps.
+- 🌱 Love working on community tech and IT projects that can enable businesses.
+- 💞️ I’m looking to collaborate on everything Linux and open source!
 - 📫 How to reach me kenangora@gmail.com
 
 <!---
